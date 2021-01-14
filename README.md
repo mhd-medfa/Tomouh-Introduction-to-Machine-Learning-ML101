@@ -39,3 +39,6 @@ Tether address: <a href="0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9">
   <img align="left" alt="TetherUSD" width="22px" src="https://raw.githubusercontent.com/mhd-medfa/mhd-medfa/main/assets/tether.svg" />
 </a>
 <mark>`0x0006a16f43D0fdf480bCc88D4398Fe73D6806fc9`</mark>
+
+
+Licensed under [MIT License](LICENSE).
