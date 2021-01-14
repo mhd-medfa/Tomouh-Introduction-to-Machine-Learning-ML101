@@ -1,6 +1,30 @@
 # Damascus University - Tomouh Voluntary Team
 
 # Introduction to Machine Learning ML101
+<p align="center">
+
+  <a href="https://github.com/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101/commits/master" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101?style=flat-square" alt="GitHub last commit">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101?style=flat-square&color=red" alt="GitHub issues">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101/pulls" target="_blank">
+    <img src="https://img.shields.io/github/issues-pr/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101?style=flat-square&color=blue" alt="GitHub pull requests">
+  </a>
+
+  </br>
+
+  <a href="https://github.com/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101#contribute" target="_blank">
+    <img alt="Contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square">
+  </a>
+
+  <a href="https://github.com/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101/blob/master/LICENSE" target="_blank">
+    <img alt="LICENSE" src="https://img.shields.io/github/license/mhd-medfa/Tomouh-Introduction-to-Machine-Learning-ML101?style=flat-square&color=yellow">
+  <a/>
+</p>
 
 ![CourseLogo](./Lecture%201/Images/Course%20Logo.PNG)
 
